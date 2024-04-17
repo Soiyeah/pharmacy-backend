@@ -35,3 +35,12 @@ Step 4. Run project
 ```bash
 pnpm dev
 ```
+
+## Testing the API
+
+1. Import the Postman collection (attached to the email).
+2. Send a Login request.
+3. Copy the received access token and add it to the {Token} variable in the collection.
+4. Test Medication and Customer APIs.
+
+
